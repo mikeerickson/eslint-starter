@@ -1,6 +1,22 @@
 # ESLint Starter
+Simple ESLint Starter package, includes `MVP` for adding eslint to your projects.
 
-## Getting Started
+### Getting Started
+
+1. Clone repo
+
+```
+git clone https://github.com/mikeerickson/eslint-starter.git
+```
+
+2. Install dependencies
+
+```
+npm Install or yarn Install
+```
+
+### About Files
+There is a simple test file `src/test.js` which has various errors in place to assure linting process is working correctly
 
 ### License
 
@@ -15,6 +31,6 @@ E-Mail: [codedungeon@gmail.com](mailto:codedungeon@gmail.com)
 
 Twitter: [@codedungeon](http://twitter.com/codedungeon)
 
-Webiste: [codedungeon.org](http://codedungeon.org)
+Webiste: [codedungeon.io](https://codedungeon.io)
 
 ***
