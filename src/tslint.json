@@ -1,0 +1,114 @@
+{
+  "extends": [
+    "tslint:latest",
+    "tslint-config-prettier"
+  ],
+  "jsRules": {
+    "class-name": true,
+    "comment-format": [
+      true,
+      "check-space"
+    ],
+    "indent": [
+      true,
+      "spaces"
+    ],
+    "no-console": false,
+    "no-duplicate-variable": true,
+    "no-eval": true,
+    "no-trailing-whitespace": true,
+    "no-unsafe-finally": true,
+    "one-line": [
+      true,
+      "check-open-brace",
+      "check-whitespace"
+    ],
+    "quotemark": [
+      true,
+      "double"
+    ],
+    "semicolon": [
+      false,
+      "never"
+    ],
+    "triple-equals": [
+      true,
+      "allow-null-check"
+    ],
+    "variable-name": [
+      true,
+      "ban-keywords"
+    ],
+    "whitespace": [
+      true,
+      "check-branch",
+      "check-decl",
+      "check-operator",
+      "check-separator",
+      "check-type"
+    ]
+  },
+  "rules": {
+    "class-name": true,
+    "comment-format": [
+      true,
+      "check-space"
+    ],
+    "ordered-imports": false,
+    "indent": [
+      true,
+      "spaces"
+    ],
+    "no-console": false,
+    "no-duplicate-imports": false,
+    "no-eval": true,
+    "no-empty-interface": false,
+    "no-internal-module": true,
+    "no-submodule-imports": false,
+    "no-implicit-dependencies": false,
+    "no-trailing-whitespace": true,
+    "no-unsafe-finally": true,
+    "no-var-keyword": true,
+    "no-var-requires": false,
+    "one-line": [
+      true,
+      "check-open-brace",
+      "check-whitespace"
+    ],
+    "quotemark": [
+      true,
+      "double"
+    ],
+    "semicolon": [
+      false,
+      "never"
+    ],
+    "semi": false,
+    "triple-equals": [
+      true,
+      "allow-null-check"
+    ],
+    "typedef-whitespace": [
+      true,
+      {
+        "call-signature": "nospace",
+        "index-signature": "nospace",
+        "parameter": "nospace",
+        "property-declaration": "nospace",
+        "variable-declaration": "nospace"
+      }
+    ],
+    "variable-name": [
+      true,
+      "ban-keywords"
+    ],
+    "whitespace": [
+      true,
+      "check-branch",
+      "check-decl",
+      "check-operator",
+      "check-separator",
+      "check-type"
+    ]
+  }
+}
