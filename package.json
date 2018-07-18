@@ -1,12 +1,21 @@
 {
   "name": "eslint-test",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "MVP ESLint Starter",
+  "main": "src/index.js",
   "scripts": {
     "lint": "eslint \"src/**/*.js\""
   },
-  "keywords": [],
+  "keywords": [
+    "eslint",
+    "tslint",
+    "starter",
+    "lint",
+    "prettier",
+    "airbnb",
+    "react",
+    "typescript"
+  ],
   "author": "Mike Erickson <codedungeon@gmail.com> (https://github.com/mikeerickson)",
   "license": "MIT",
   "devDependencies": {

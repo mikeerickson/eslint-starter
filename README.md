@@ -1,27 +1,29 @@
 # ESLint Starter
+
 Simple ESLint Starter package, includes `MVP` for adding eslint to your projects.
 
 ## Getting Started
 
 1. Clone repo
 
-```
+```bash
 git clone https://github.com/mikeerickson/eslint-starter.git
 ```
 
 2. Install dependencies
 
-```
+```bash
 npm Install or yarn Install
 ```
 
 3. Run Linting Script
 
-```
+```bash
 npm run lint
 ```
 
 ### About Files
+
 There is a simple test file `src/test.js` which has various errors in place to assure linting process is working correctly
 
 ### License
